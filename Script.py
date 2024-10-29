@@ -64,9 +64,9 @@ Thanks for thinking about us.\nIt seems that you really love <a href=https://t.m
 
     NO_VOID_FORMAT_FOUND = "ERROR... <code>{}</code>"
 
-    UPLOAD_START = "<b>initiating Lazy Upload ⚡</b>"
+    UPLOAD_START = "<b>initiating TOM Upload ⚡</b>"
 
-    LAZY_UPLOAD_START = """<b>●❤♡ Recieving Lazy File ♡❤●</b>\n\n⏯**File Name:** `{}`"""
+    LAZY_UPLOAD_START = """<b>●❤♡ Recieving TOM File ♡❤●</b>\n\n⏯**File Name:** `{}`"""
 
     AFTER_SUCCESSFUL_UPLOAD_MSG_WITH_TS = "▼ Dᴏᴡɴʟᴏᴀᴅᴇᴅ ɪɴ {} sᴇᴄᴏɴᴅs.\n▲ Uᴘʟᴏᴀᴅᴇᴅ ɪɴ {} sᴇᴄᴏɴᴅs\n\n★.•☆•.★𑁔𑁔★ 𝖽𝖾𝗍✫𝗂𝗅𝗌 ★𑁔𑁔★.•☆•.★\n\n🔗<b>URL:</b> {}\n\n✩📂<b>F Name:</b> `{}`\n\n✩📝<b>C Name:</b> `{}`\n\n🧬**File Size:** `{}`\n\n🧡Thank you🧡"
 
@@ -107,7 +107,7 @@ Here is the help for my COMMANDS."""
 
 """
     ABOUT_TXT = """✯ 𝕚𝕥𝕤❜𝕤 me: {}
-✯ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁: <a href=https://t.me/LazyDeveloper>🦋 𝕃𝕒𝕫𝕪𝔻𝕖𝕧𝕖𝕝𝕠𝕡𝕖𝕣 🦋</a>
+✯ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁: <a href=https://t.me/DMWITHGOKUL>🦋 TOM AND JERRY 🦋</a>
 ✯ 𝙻𝙸𝙱𝚁𝙰𝚁𝚈: 𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼
 ✯ 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴: 𝙿𝚈𝚃𝙷𝙾𝙽 𝟹
 ✯ 𝙳𝙰𝚃𝙰 𝙱𝙰𝚂𝙴: 𝙼𝙾𝙽𝙶𝙾 𝙳𝙱
@@ -123,7 +123,7 @@ Here is the help for my COMMANDS."""
 - ✨Pʟᴇᴀsᴇ ɢɪᴠᴇ ᴀ sᴛᴀʀ ᴛᴏ ᴛʜɪs ʀᴇᴘᴏ ᴀғᴛᴇʀ ғᴏʀᴋ. Sᴀʟᴜᴛᴇ ᴛᴏ sɪʀ <a href=https://t.me/LazyDeveloperr>LᴀᴢʏDᴇᴠᴇʟᴏᴘᴇʀ</a> ғᴏʀ ᴀᴅᴅɪɴɢ ᴇxᴛʀᴀ ғᴇᴀᴛᴜʀᴇs ɪɴ ᴍᴇ.
 
 <b>DEV:</b>
-- 🦋 <a href=https://t.me/LazyDeveloper>LazyDeveloper</a> 🦋"""
+- 🦋 <a href=https://t.me/CINEMACCBOTUPDATES>TOM</a> 🦋"""
     MANUELFILTER_TXT = """Help: <b>Filters</b>
 
 - Fɪʟᴛᴇʀ ɪs ᴛʜᴇ ғᴇᴀᴛᴜʀᴇ ᴡᴇʀᴇ ᴜsᴇʀs ᴄᴀɴ sᴇᴛ ᴀᴜᴛᴏᴍᴀᴛᴇᴅ ʀᴇᴘʟɪᴇs ғᴏʀ ᴀ ᴘᴀʀᴛɪᴄᴜʟᴀʀ ᴋᴇʏᴡᴏʀᴅ ᴀɴᴅ LᴀᴢʏPʀɪɴᴇss ᴡɪʟʟ ʀᴇsᴘᴏɴᴅ ᴡʜᴇɴᴇᴠᴇʀ ᴛʜᴀᴛ ᴋᴇʏᴡᴏʀᴅ ʜɪᴛs ᴛʜᴇ ᴍᴇssᴀɢᴇ
@@ -147,7 +147,7 @@ Here is the help for my COMMANDS."""
 3. Buttons should be properly parsed as markdown format
 
 <b>URL buttons:</b>
-<code>[Button Text](buttonurl:https://t.me/LazyDeveloper)</code>
+<code>[Button Text](buttonurl:https://t.me/DMWITHGOKUL)</code>
 
 <b>Alert buttons:</b>
 <code>[Button Text](buttonalert:This is an alert message)</code>"""
